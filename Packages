@@ -6,7 +6,7 @@ Description: Streamlined Dark Mode Retro Theme
 Maintainer: OrangeTheoryEnquiries@gmail.com
 Author: OrangeTheoryEnquiries@gmail
 Section: Theme
-Depends: Snowboard
+Depends: 
 Filename:DarkRetro
 Size: 2,926,588
 MD5sum: e1c588d44d0d18418ed85953ed8e5c3a
